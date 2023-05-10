@@ -1,0 +1,9 @@
+venv
+venv/
+/debug.log
+__pycache__/
+*.pyc
+*.log
+*.pyo
+!debug.log
+*.egg-info/
